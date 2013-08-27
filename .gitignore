@@ -1,0 +1,16 @@
+*.gem
+.DS_Store
+*.rbc
+.bundle
+.config
+.rbx
+.rspec
+.ruby-version
+Gemfile.lock
+coverage
+doc/
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+tmp
